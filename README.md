@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=roochiia&fontSize=80&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Long-life%20learner%20%F0%9F%8C%B8&descAlignY=55&descSize=20" width="100%" />
+<!-- Animated gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,6,12,13,30&height=200&section=header&text=roochiia&fontSize=80&fontColor=ffffff&animation=blinking&fontAlignY=35&desc=%E2%9C%A8%20AI%20%26%20Web3%20Enthusiast%20%E2%9C%A8&descAlignY=52&descSize=18" width="100%" />
 
 </div>
 
@@ -11,16 +11,25 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7567C&center=true&vCenter=true&random=false&width=500&lines=Hi+%E2%9C%A8+I'm+roochiia;AI+%26+Web3+Enthusiast;Always+learning%2C+always+building;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7567C&center=true&vCenter=true&random=false&width=500&lines=Hi+%E2%9C%A8+I'm+roochiia;Multi-Agent+Builder+%F0%9F%A4%96;AI+%E2%9C%8D%EF%B8%8F+%C2%B7+Web3+%C2%B7+Obsidian;Always+learning%2C+always+building;%F0%9F%87%AE%F0%9F%87%A9+Based+in+Indonesia" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
 
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br>
+
 ## About Me
 
-<p align="center">
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -32,10 +41,10 @@ Building AI agents with Hermes — Mayuri, Meica & Jiho
 Web3, NFT minting bots, and knowledge management systems
 
 📚 **Lifelong Learner**  
-Currently exploring multi-agent architectures, second brain systems, and everything in between
+Multi-agent architectures, second brain systems, and everything in between
 
-🌱 **Currently Learning**  
-Advanced AI agent orchestration, GBrain knowledge graphs, and Obsidian vault workflows
+🌱 **Currently Building**  
+[GBrain Second Brain Setup](https://github.com/belaroochiia/gbrain-second-brain) — a guide for AI agent persistent memory
 
 </td>
 <td valign="top" width="50%">
@@ -50,12 +59,12 @@ Hermes Agent · Obsidian · GBrain · Git
 Coffee + curiosity
 
 📍 **Location**  
-Indonesia
+Indonesia 🇮🇩
 
 </td>
 </tr>
 </table>
-</p>
+</div>
 
 <br>
 
@@ -63,7 +72,6 @@ Indonesia
 
 <div align="center">
 
-<!-- Languages & Tools -->
 <img src="https://skillicons.dev/icons?i=python,git,github,linux,obsidian,vscode,docker,nodejs,sqlite,postgres&perline=10&theme=light" alt="Tech Stack" />
 
 </div>
@@ -75,7 +83,7 @@ Indonesia
 <div align="center">
 
 <a href="https://github.com/belaroochiia">
-<img src="https://github-readme-stats.vercel.app/api?username=belaroochiia&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7567C&icon_color=F7567C&text_color=C9D1D9&ring_color=F7567C" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=belaroochiia&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7567C&icon_color=F7567C&text_color=C9D1D9&ring_color=F7567C&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/belaroochiia">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=belaroochiia&theme=radical&hide_border=true&background=0D1117&ring=F7567C&fire=F7567C&currStreakLabel=F7567C&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub Streak" />
@@ -84,8 +92,18 @@ Indonesia
 <br><br>
 
 <a href="https://github.com/belaroochiia">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=belaroochiia&theme=redical&hide_border=true&bg_color=0D1117&color=F7567C&line=F7567C&point=F7567C" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=belaroochiia&theme=redical&hide_border=true&bg_color=0D1117&color=F7567C&line=F7567C&point=F7567C&area=true&area_color=F7567C" width="95%" alt="Contribution Graph" />
 </a>
+
+</div>
+
+<br>
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=belaroochiia&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
@@ -112,6 +130,9 @@ Indonesia
 <a href="https://github.com/belaroochiia">
 <img src="https://img.shields.io/badge/GitHub-belaroochiia-F7567C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://github.com/belaroochiia/gbrain-second-brain">
+<img src="https://img.shields.io/badge/GBrain%20Guide-Second%20Brain%20Setup-FF6B9D?style=for-the-badge&logo=book&logoColor=white" alt="GBrain Guide" />
+</a>
 
 <br><br>
 
@@ -124,7 +145,7 @@ Indonesia
 <div align="center">
 
 <!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,6,12,13,30&height=120&section=footer" width="100%" />
 
 </div>
 
