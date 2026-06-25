@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated gradient header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,6,12,13,30&height=200&section=header&text=roochiia&fontSize=80&fontColor=ffffff&animation=blinking&fontAlignY=35&desc=%E2%9C%A8%20AI%20%26%20Web3%20Enthusiast%20%E2%9C%A8&descAlignY=52&descSize=18" width="100%" />
+<!-- Animated GIF header -->
+<img src="assets/banner-header.gif" width="100%" alt="roochiia header" />
 
 </div>
 
@@ -146,8 +146,8 @@ Indonesia 🇮🇩
 
 <div align="center">
 
-<!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,6,12,13,30&height=120&section=footer" width="100%" />
+<!-- Animated GIF footer -->
+<img src="assets/banner-footer.gif" width="100%" alt="footer" />
 
 </div>
 
