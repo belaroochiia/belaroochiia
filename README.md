@@ -99,11 +99,13 @@ Indonesia 🇮🇩
 
 <br>
 
-## Trophies
+## Languages & Tools
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=belaroochiia&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<a href="https://github.com/belaroochiia">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belaroochiia&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7567C&text_color=C9D1D9&layout=compact&card_width=400" height="180" alt="Top Languages" />
+</a>
 
 </div>
 
