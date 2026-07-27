@@ -1,158 +1,103 @@
 <div align="center">
-
-<!-- Animated GIF header -->
-<img src="assets/banner-header.gif" width="100%" alt="roochiia header" />
-
+<img src="assets/banner-header.gif" width="100%" alt="roochiia" />
 </div>
 
-<br>
-
 <div align="center">
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7567C&center=true&vCenter=true&random=false&width=500&lines=Hi+%E2%9C%A8+I'm+roochiia;Multi-Agent+Builder+%F0%9F%A4%96;AI+%E2%9C%8D%EF%B8%8F+%C2%B7+Web3+%C2%B7+Obsidian;Always+learning%2C+always+building;%F0%9F%87%AE%F0%9F%87%A9+Based+in+Indonesia" alt="Typing SVG" />
+<a href="https://github.com/belaroochiia">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=F7567C&center=true&vCenter=true&width=520&lines=building+agents+that+remember;multi-agent+systems+%C2%B7+web3+%C2%B7+second+brains;always+learning%2C+always+building" alt="" />
 </a>
+</div>
+
+<br>
+
+<div align="center">
+
+**Long-life learner** from Indonesia 🇮🇩, building a small family of AI agents
+and the memory systems that keep them coherent.
+
+<a href="https://github.com/belaroochiia?tab=repositories"><img src="https://img.shields.io/badge/repositories-F7567C?style=for-the-badge&logo=github&logoColor=white" alt="repositories" /></a>
+<a href="https://github.com/belaroochiia/gbrain-second-brain"><img src="https://img.shields.io/badge/gbrain%20guide-FF6B9D?style=for-the-badge&logo=obsidian&logoColor=white" alt="gbrain guide" /></a>
+<img src="https://komarev.com/ghpvc/?username=belaroochiia&style=for-the-badge&color=C2185B&label=visitors" alt="visitors" />
 
 </div>
 
 <br>
 
-<!-- Pacman contribution animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-pacman.svg" />
-  <img alt="github-pacman" src="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-pacman-dark.svg" width="100%" />
-</picture>
+## The agents
+
+Three agents, one shared memory layer. Each one has a job it actually does.
+
+<div align="center">
+
+| | agent | what it does |
+|:--:|:--|:--|
+| 🌸 | **Mayuri** | general-purpose assistant, and the one I talk to most |
+| 🍵 | **Meica** | family-facing assistant — softer edges, same brain |
+| 🎴 | **Jiho** | NFT minting operations, runs the parts that must not be improvised |
+
+</div>
+
+> All three run on **Hermes**, with persistent memory through **GBrain** —
+> because an agent that forgets yesterday isn't an assistant, it's a search box.
 
 <br>
 
-## About Me
+## What I'm into
 
-<div align="center">
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-🌸 **Multi-Agent Builder**  
-Building AI agents with Hermes — Mayuri, Meica & Jiho
+**Multi-agent architecture**
+How several agents share context without stepping on each other.
 
-🎨 **Creative Technologist**  
-Web3, NFT minting bots, and knowledge management systems
-
-📚 **Lifelong Learner**  
-Multi-agent architectures, second brain systems, and everything in between
-
-🌱 **Currently Building**  
-[GBrain Second Brain Setup](https://github.com/belaroochiia/gbrain-second-brain) — a guide for AI agent persistent memory
+**Second brain systems**
+Obsidian, GBrain, and the unglamorous plumbing that makes memory persist.
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-💫 **Interests**  
-AI agents · Web3 · Knowledge management · Automation
+**Web3 &amp; automation**
+Minting bots and the kind of scripts that run while I sleep.
 
-🛠️ **Daily Drivers**  
-Hermes Agent · Obsidian · GBrain · Git
-
-☕ **Fuel**  
-Coffee + curiosity
-
-📍 **Location**  
-Indonesia 🇮🇩
+**Currently building**
+[GBrain Second Brain Setup](https://github.com/belaroochiia/gbrain-second-brain) —
+a guide to giving AI agents memory that survives a restart.
 
 </td>
 </tr>
 </table>
-</div>
 
 <br>
 
-## Tech Stack
+## Daily drivers
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,obsidian,vscode,docker,nodejs,sqlite,postgres&perline=10&theme=light" alt="Tech Stack" />
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/belaroochiia">
-<img src="https://github-readme-stats.vercel.app/api?username=belaroochiia&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7567C&icon_color=F7567C&text_color=C9D1D9&ring_color=F7567C&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/belaroochiia">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=belaroochiia&theme=radical&hide_border=true&background=0D1117&ring=F7567C&fire=F7567C&currStreakLabel=F7567C&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/belaroochiia">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=belaroochiia&theme=redical&hide_border=true&bg_color=0D1117&color=F7567C&line=F7567C&point=F7567C&area=true&area_color=F7567C" width="95%" alt="Contribution Graph" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,obsidian,docker,nodejs,sqlite,postgres&perline=10" alt="python git github linux vscode obsidian docker nodejs sqlite postgres" />
 
 </div>
 
 <br>
 
-## Languages & Tools
+## Contribution snake
 
 <div align="center">
 
-<a href="https://github.com/belaroochiia">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belaroochiia&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7567C&text_color=C9D1D9&layout=compact&card_width=400" height="180" alt="Top Languages" />
-</a>
-
-</div>
-
-<br>
-
-## Current Projects
-
-<div align="center">
-
-| 🤖 Agent | 🎯 Purpose |
-|:---:|:---|
-| **Mayuri** | General-purpose AI assistant & bestie |
-| **Meica** | General bestie assistant for family |
-| **Jiho** | NFT minting operations agent |
-
-</div>
-
-<br>
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/belaroochiia">
-<img src="https://img.shields.io/badge/GitHub-belaroochiia-F7567C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/belaroochiia/gbrain-second-brain">
-<img src="https://img.shields.io/badge/GBrain%20Guide-Second%20Brain%20Setup-FF6B9D?style=for-the-badge&logo=book&logoColor=white" alt="GBrain Guide" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=belaroochiia&style=flat-circle&color=F7567C&label=Profile+Views" alt="Profile Views" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/belaroochiia/belaroochiia/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 <br>
 
 <div align="center">
-
-<!-- Animated GIF footer -->
-<img src="assets/banner-footer.gif" width="100%" alt="footer" />
-
+<img src="assets/banner-footer.gif" width="100%" alt="" />
 </div>
 
----
-
 <div align="center">
-<sub>✨ Made with love & curiosity by roochiia ✨</sub>
+<sub>☕ built with coffee and curiosity · <b>roochiia</b></sub>
 </div>
